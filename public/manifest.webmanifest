@@ -1,20 +1,20 @@
 {
-    "name": "Track My Budget",
-    "short_name": "$ Tracker",
+    "name": "Budget Tracker",
+    "short_name": "Budget app",
     "icons": [
-        {
-            "src": "icons/icon-192x192.png",
-            "sizes": "192x192",
-            "type": "image/png"
-        },
-        {
-            "src": "icons/icon-512x512.png",
-            "sizes": "512x512",
-            "type": "image/png"
-        }
+      {
+        "src": "icons/icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/icon-512x512.png",
+        "sizes": "96x96",
+        "type": "image/png"
+      }
     ],
-    "theme_color": "yellow",
-    "background_color": "green",
+    "theme_color": "green",
+    "background_color": "yellow",
     "start_url": "/",
     "display": "standalone"
-}
+  }
